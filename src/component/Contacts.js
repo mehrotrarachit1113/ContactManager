@@ -8,27 +8,27 @@ class Contacts extends Component{
             contacts : [
                 {
                     id : 1,
-                    name : 'Rachit Mehrotra',
-                    email : 'rachit.mehrotra8@gmail.com',
-                    phone : '9670605024' 
+                    name : 'testUser1',
+                    email : 'testUser1@gmail.com',
+                    phone : '1234567890' 
                 },
                 {
                     id : 2,
-                    name : 'Rashmi Singh',
-                    email : 'testgkp@gmail.com',
-                    phone : '123456789'
+                    name : 'testUser2',
+                    email : 'testUser2@gmail.com',
+                    phone : '1234567890'
                 },
                 {
                     id : 3,
-                    name : 'Nooru Mehrotra',
-                    email : 'noor@gmail.com',
+                    name : 'testUser3',
+                    email : 'testUser3@gmail.com',
                     phone : '1234567890'
                 },
                 {
                     id : 4,
-                    name : 'Bani Mehrotra',
-                    email : 'bani@gmail.com',
-                    phone : '9876543210'
+                    name : 'testUser4',
+                    email : 'testUser1@gmail.com',
+                    phone : '1234567890'
                 }
             ]
         }
